@@ -16,4 +16,4 @@ Points of observation:</br>
 ▪ The minimum amount of active boxes, during the day, must be equal to one after the opening of the service.</br>
 ▪ If we have only one teller in operation, it must provide priority and non-priority services.</br>
 ▪ Closing of all service boxes can only occur after all customers have been serviced.</br>
-The program must show at all times the current status of the cashiers (the passwords of the customers who are being served at that moment) and of the waiting line(s). It should also show a menu containing options for: generating a password for a new client; call of a new customer for assistance and opening/closing actions of a cashier.
+<strong>The program must show at all times the current status of the cashiers (the passwords of the customers who are being served at that moment) and of the waiting line(s). It should also show a menu containing options for: generating a password for a new client; call of a new customer for assistance and opening/closing actions of a cashier.</strong>
