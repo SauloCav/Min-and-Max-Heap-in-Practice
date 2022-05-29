@@ -1,6 +1,6 @@
-# Min-and-Max-Heap-in-Practice
+# Min and Max Heap in Practice
 
-<strong>A scenario for managing queues and service counters using Heaps min and max</strong>
+<strong><strong>A scenario for managing queues and service counters using Heaps min and max</strong></strong>
 
 <strong>Activity proposal:</strong></br>
 Consider the scenario of a company that provides services to the public through service counters.</br>
